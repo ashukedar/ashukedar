@@ -1,29 +1,31 @@
 Hi, I’m @ashukedar
 
+Currently pursuing MTech in Data Analytics at IIT ISM Dhanbad
+Learning
+  - Python
+  - Data Scrapping and ETL
+  - Data Analysis
+  - Data Visualization
+
 Work Experience:
-  Full stack developer working with 
+  3+ years of experience full stack developer in Media and AdTech domain
     - React JS
     - .Net
     - HTML/CSS/JS
     - SQL/Oracle
-  2.5+ years of experience 
-    Media and AdTech domain
 
 Also, handy in:
   - Angular Js
-  - Python
   - Java
 
 Interests:
   - AI
   - Gaming
 
-Also learning
-  - Baiscs of Data science and analytics
-  - R programming
-
 Other works:
   - https://codesandbox.io/u/ashukedar
+  - https://replit.com/@AshuKedar
 
 Contact Me:
-  https://www.linkedin.com/in/ashutosh-kedar-90285314b/
+  - https://www.linkedin.com/in/ashutosh-kedar-90285314b/
+  - ashutosh10.kedar@gmail.com
