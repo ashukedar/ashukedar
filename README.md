@@ -3,7 +3,6 @@ Hi, I’m @ashukedar
 Currently pursuing MTech in Data Analytics at IIT ISM Dhanbad
 
 Learning:
-  - Python
   - Data Scrapping and ETL
   - Data Analysis
   - Data Visualization
@@ -14,14 +13,16 @@ Work Experience:
   - Media and AdTech domain
 
 Technologies used at job:
+  - Python
   - React Js
-  - .Net/.Net Core
-  - HTML/CSS/JS
+  - AWS
   - SQL/Oracle
+  - .NetCore
 
 Also, handy in:
   - Angular Js
-  - Java
+  - Javascript
+  - PowerBI
 
 Interests:
   - AI
